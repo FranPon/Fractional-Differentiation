@@ -73,7 +73,3 @@ This notebook trains and compares several forecasting models using two different
 * M. L. De Prado, *Advances in Financial Machine Learning*, Wiley, 2018.
 * R. Walasek & J. Gajda, “Fractional differentiation and its use in machine learning”, IJESAM, 2021.
 * P. Brockwell & R. Davis, *Time Series: Theory and Methods*, Springer, 2009.
-
----
-
-Se vuoi, posso perfezionare ulteriormente il tono, aggiungere esempi di comandi d’esecuzione, includere grafici di esempio, o adattarlo completamente allo stile della tua tesi.
